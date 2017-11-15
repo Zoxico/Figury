@@ -1,0 +1,19 @@
+c:\users\zoxico\documents\visual studio 2017\Projects\FIGURY\FIGURY\bin\Debug\FIGURY.exe.config
+c:\users\zoxico\documents\visual studio 2017\Projects\FIGURY\FIGURY\bin\Debug\FIGURY.exe
+c:\users\zoxico\documents\visual studio 2017\Projects\FIGURY\FIGURY\bin\Debug\FIGURY.pdb
+c:\users\zoxico\documents\visual studio 2017\Projects\FIGURY\FIGURY\obj\Debug\FIGURY.csprojResolveAssemblyReference.cache
+c:\users\zoxico\documents\visual studio 2017\Projects\FIGURY\FIGURY\obj\Debug\FIGURY.Form1.resources
+c:\users\zoxico\documents\visual studio 2017\Projects\FIGURY\FIGURY\obj\Debug\FIGURY.Properties.Resources.resources
+c:\users\zoxico\documents\visual studio 2017\Projects\FIGURY\FIGURY\obj\Debug\FIGURY.csproj.GenerateResource.Cache
+c:\users\zoxico\documents\visual studio 2017\Projects\FIGURY\FIGURY\obj\Debug\FIGURY.exe
+c:\users\zoxico\documents\visual studio 2017\Projects\FIGURY\FIGURY\obj\Debug\FIGURY.pdb
+F:\z laptopa\Documents\Visual Studio 2017\Projects\FIGURY\FIGURY\bin\Debug\FIGURY.exe.config
+F:\z laptopa\Documents\Visual Studio 2017\Projects\FIGURY\FIGURY\bin\Debug\FIGURY.exe
+F:\z laptopa\Documents\Visual Studio 2017\Projects\FIGURY\FIGURY\bin\Debug\FIGURY.pdb
+F:\z laptopa\Documents\Visual Studio 2017\Projects\FIGURY\FIGURY\obj\Debug\FIGURY.csprojResolveAssemblyReference.cache
+F:\z laptopa\Documents\Visual Studio 2017\Projects\FIGURY\FIGURY\obj\Debug\FIGURY.Form1.resources
+F:\z laptopa\Documents\Visual Studio 2017\Projects\FIGURY\FIGURY\obj\Debug\FIGURY.Properties.Resources.resources
+F:\z laptopa\Documents\Visual Studio 2017\Projects\FIGURY\FIGURY\obj\Debug\FIGURY.csproj.GenerateResource.Cache
+F:\z laptopa\Documents\Visual Studio 2017\Projects\FIGURY\FIGURY\obj\Debug\FIGURY.csproj.CoreCompileInputs.cache
+F:\z laptopa\Documents\Visual Studio 2017\Projects\FIGURY\FIGURY\obj\Debug\FIGURY.exe
+F:\z laptopa\Documents\Visual Studio 2017\Projects\FIGURY\FIGURY\obj\Debug\FIGURY.pdb
